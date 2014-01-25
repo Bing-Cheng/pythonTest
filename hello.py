@@ -3,3 +3,4 @@ print ("hh")
 h = 1
 print ("tt")
 root = Tk()
+a=1
